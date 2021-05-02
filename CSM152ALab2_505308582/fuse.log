@@ -1,0 +1,29 @@
+Running: /home/ashley/Downloads/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/ashley/Documents/M152A/CSM152ALab2_505308582/testbench_505308582_isim_beh.exe" -prj "/home/ashley/Documents/M152A/CSM152ALab2_505308582/testbench_505308582_beh.prj" "work.testbench_505308582" "work.glbl" 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/ashley/Documents/M152A/CSM152ALab2_505308582/clock_gen.v" into library work
+Analyzing Verilog file "/home/ashley/Documents/M152A/CSM152ALab2_505308582/testbench_505308582.v" into library work
+Analyzing Verilog file "/home/ashley/Downloads/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 83004 KB
+Fuse CPU Usage: 970 ms
+Compiling module div_pow_2
+Compiling module div_32
+Compiling module div_26
+Compiling module div_3
+Compiling module div_5
+Compiling module div_200
+Compiling module strobe
+Compiling module clock_gen
+Compiling module testbench_505308582
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 10 Verilog Units
+Built simulation executable /home/ashley/Documents/M152A/CSM152ALab2_505308582/testbench_505308582_isim_beh.exe
+Fuse Memory Usage: 1167480 KB
+Fuse CPU Usage: 980 ms
+GCC CPU Usage: 110 ms

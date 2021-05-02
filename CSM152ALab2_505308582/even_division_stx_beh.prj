@@ -1,0 +1,2 @@
+verilog isim_temp "clock_gen.v"
+verilog isim_temp "/home/ashley/Downloads/14.7/ISE_DS/ISE//verilog/src/glbl.v"
